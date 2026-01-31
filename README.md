@@ -38,8 +38,8 @@ Ich baue gerne saubere Backends, robuste REST APIs und kleine Produkte, die echt
 
 ## 🤝 Kontakt / Links
 
-- 🌐 ![Website](https://zenoambrosius.de/)
-- 💼 ![Instagram](https://instagram.com/zenoambrosius)
+- 🌐 https://zenoambrosius.de/
+- 💼 https://instagram.com/zenoambrosius
 
 ---
 
