@@ -36,13 +36,6 @@ Ich baue gerne saubere Backends, robuste REST APIs und kleine Produkte, die echt
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZenoAmbrosius&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenoAmbrosius&layout=compact)
-
----
-
 ## 🤝 Kontakt / Links
 
 - 🌐 ![Website](https://zenoambrosius.de/)
