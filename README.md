@@ -1,46 +1,72 @@
 # Hi, ich bin Zeno Ambrosius 👋
 
-**Node.js Developer** • APIs • Linux • Datenbanken • App-Ideen  
-Ich baue gerne saubere Backends, robuste REST APIs und kleine Produkte, die echte Probleme lösen.
+**Node.js Developer** mit Fokus auf **Backend-Entwicklung, REST APIs, Datenbanken und self-hosted Linux-Setups**.
+Ich entwickle saubere, sichere und wartbare Backends — von Auth-Systemen über Datenmodelle bis hin zu produktionsnahen API-Strukturen.
 
 ---
 
 ## 🚀 Über mich
 
-- 💻 Fokus: **Backend & API Development** (Node.js)
-- 🐧 Setup: **Linux (Ubuntu Server)**, self-hosted Projekte
-- 🧠 Interessen: Skalierbare Services, Auth, Datenmodellierung, saubere Architekturen
-- 🛠️ Aktuell: an Projekten rund um **REST APIs** und App-Backends
+Ich beschäftige mich vor allem mit moderner Backend-Entwicklung in **Node.js** und baue APIs, die klar strukturiert, skalierbar und zuverlässig sind.
+
+Mein Schwerpunkt liegt auf:
+
+* Entwicklung von **REST APIs** mit Node.js und Express
+* Authentifizierung mit **JWT, OAuth und sicheren Login-Flows**
+* Arbeit mit **MySQL-Datenbanken** und sauberer Datenmodellierung
+* Deployment und Betrieb auf **Linux Ubuntu Servern**
+* Reverse Proxy, SSL/TLS und produktionsnahe Server-Konfigurationen
 
 ---
 
 ## 🧰 Tech Stack
 
-**Backend**
-- Node.js • Express • REST • Auth (JWT/OAuth)  
-**Datenbank**
-- MySQL  
-**Ops / Server**
-- Linux (Ubuntu) • Apache2 / Reverse Proxy • SSL/TLS (Certbot)  
-**Tools**
-- Git • Docker • Postman/Insomnia
+### Backend
+
+Node.js • Express • REST APIs • JWT • OAuth
+
+### Datenbanken
+
+MySQL • Datenmodellierung • Query-Optimierung
+
+### Server & DevOps
+
+Linux Ubuntu Server • Apache2 • Reverse Proxy • SSL/TLS mit Certbot
+
+### Tools
+
+Git • Docker • Postman • Insomnia
 
 ---
 
-## ✅ Was mir wichtig ist
+## ✅ Worauf ich Wert lege
 
-- **Sicherheit** (Auth, Validierung, Least Privilege)
-- **Saubere Schnittstellen** (klar, versionierbar, dokumentiert)
-- **Wartbarkeit** (Struktur, Tests, Konventionen)
-- **Performance** (Caching, effiziente Queries, Monitoring)
+* **Sicherheit**
+  Saubere Authentifizierung, Validierung, Rollenmodelle und Least-Privilege-Prinzipien
+
+* **Klare Schnittstellen**
+  Verständliche, versionierbare und gut dokumentierte APIs
+
+* **Wartbare Architektur**
+  Strukturierter Code, klare Konventionen und nachvollziehbare Projektorganisation
+
+* **Performance & Stabilität**
+  Effiziente Datenbankabfragen, Caching-Strategien und robuste Fehlerbehandlung
 
 ---
 
-## 🤝 Kontakt / Links
+## 🛠️ Aktuelle Themen
 
-- 🌐 https://zenoambrosius.de/
-- 💼 https://instagram.com/zenoambrosius
+Derzeit arbeite ich an Projekten rund um **REST APIs, App-Backends, Auth-Systeme und self-hosted Webservices**.
+Mich interessiert besonders, wie man aus guten Ideen stabile, sichere und nutzbare Produkte baut.
 
 ---
 
-⭐ Wenn dir meine Projekte helfen oder du etwas cool findest: gerne star’en 🙂
+## 🤝 Kontakt & Links
+
+🌐 Website: https://zenoambrosius.de/
+💼 Instagram: https://instagram.com/zenoambrosius
+
+---
+
+⭐ Wenn dir eines meiner Projekte hilft oder du etwas spannend findest, freue ich mich über einen Star.
